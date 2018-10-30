@@ -1,4 +1,4 @@
-package com.hfonseca.java8.lambda;
+package com.hfonseca.java8;
 
 import java.util.IntSummaryStatistics;
 import java.util.List;
